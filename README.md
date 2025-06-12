@@ -4,6 +4,7 @@ O código tem como objetivo realizar o cadastro de um cachorro, solicitando ao u
 Nome
 Raça
 Idade
+
 Técnicas e Conceitos Utilizados
 1. Entrada de dados com Scanner
 2. Tipos de dados
